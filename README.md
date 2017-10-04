@@ -1,2 +1,2 @@
 # PetriNet
-A simple petri net writed in JAVA
+A simple petri net written in JAVA 
